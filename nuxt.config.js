@@ -21,6 +21,13 @@ export default {
    */
   loading: { color: '#fff' },
   /*
+   ** Router Options
+   */
+  router: {
+    linkActiveClass: 'router-link-active',
+    linkExactActiveClass: 'router-link-exact-active'
+  },
+  /*
    ** Global CSS
    */
   css: [],
